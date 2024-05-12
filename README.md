@@ -1,4 +1,4 @@
-📊 Data Analyst with 3 years of experience specializing in leveraging Advanced SQL, Power BI, Excel, and Python for insightful data analysis. Proven track record of extracting valuable insights from complex datasets to drive data-driven decision-making.
+📊 Data Analyst with over 3 years of experience specializing in leveraging Advanced SQL, Power BI, Excel, and Python for insightful data analysis. Proven track record of extracting valuable insights from complex datasets to drive data-driven decision-making.
 
 💻 Proficient in writing complex SQL queries to manipulate and analyze large datasets, optimizing database performance, and ensuring data integrity.
 
