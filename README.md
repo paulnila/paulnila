@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nilanja75867442" target="blank"><img src="https://img.shields.io/twitter/follow/nilanja75867442?logo=twitter&style=for-the-badge" alt="nilanja75867442" /></a> </p>
 
-- 🌱 I’m currently learning **Snowflake**
+- 🌱 **Microsoft Certified Power BI Data Analyst**, currently learning **Snowflake** and **PySpark**.
 
 - 💬 Ask me about **SQL, MS-Excel, Power BI, Python, Pandas**
 
