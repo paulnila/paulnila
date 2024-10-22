@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **paulnilanjan39@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences (https://paulnila.github.io/portfolio.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
